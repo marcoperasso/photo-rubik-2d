@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project Licensed under the 
+	Apache License, Version 2.0 (the "License"); you may not use this file except 
+	in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. 
+	Editor: ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com) Android 
+	Localizer (aiLocalizer) -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<!--Original value: Replay -->
+	<string name="replay">Gioca ancora</string>
+	<!--Original value: Searching puzzles... -->
+	<string name="searching_puzzles">Ricerca puzzle in corso...</string>
+	<!--Original value: Import selected puzzles -->
+	<string name="import_selected">Importa i puzzle selezionati</string>
+	<!--Original value: Import puzzle... -->
+	<string name="importPuzzle">Importa puzzle...</string>
+	<!--Original value: Send puzzle to a friend -->
+	<string name="send">Manda il puzzle ad un amico</string>
+	<!--Original value: Available puzzles: -->
+	<string name="available_puzzles">Puzzle disponibili:</string>
+	<!--Original value: No puzzle files (*.pfy) found in your file system: ask 
+		to a friend of yours to send one! -->
+	<string name="no_available_puzzles">Nessun puzzle (*.pfy) trovato nelle tue cartelle:
+		chiedi ad un amico di mandartene uno!</string>
+	<!--Original value: Vibration enabled -->
+	<string name="enable_vibration">Vibrazione attivata</string>
+	<!--Original value: Effects -->
+	<string name="effects">Effetti</string>
+	<!--Original value: Save puzzle to gallery -->
+	<string name="save">Salva nella galleria immagini</string>
+	<!--Original value: Total moves: -->
+	<string name="total_moves">Mosse totali:</string>
+	<!--Original value: Close -->
+	<string name="close">Chiudi</string>
+	<!--Original value: Level completed! -->
+	<string name="level_completed">Livello completato!</string>
+	<!--Original value: Puzzle size -->
+	<string name="puzzle_size">Dimensione puzzle</string>
+	<!--Original value: Delete puzzle -->
+	<string name="deletePuzzle">Cancella puzzle</string>
+	<!--Original value: Welcome to Photo Rubik 2D. Shoot your own puzzles and 
+		solve them! -->
+	<string name="welcome">Benvenuto in Photo Rubik 2D. Scatta le foto dei
+		tuoi puzzle e risolvili!</string>
+	<!--Original value: Shoot a new puzzle... -->
+	<string name="newPuzzle">Nuovo puzzle...</string>
+	<!--Original value: Available puzzles -->
+	<string name="puzzles">Puzzle disponibili</string>
+	<!--Original value: Shoot -->
+	<string name="shoot">Scatta</string>
+	<!--Original value: Photo Rubik 2D -->
+	<string name="app_name">Photo Rubik 2D</string>
+	<!--Original value: PerasSoft -->
+	<string name="PerasSoft">PerasSoft</string>
+	<!--Original value: Elapsed time: -->
+	<string name="total_time">Tempo trascorso:</string>
+	<!--Original value: Error -->
+	<string name="error">Errore</string>
+	<!--Original value: Photo Rubik 2D -->
+	<string name="app_title">Photo Rubik 2D</string>
+	<!--Original value: Autofocus failed! Please retry... -->
+	<string name="autofocus_failed">Messa a fuoco automatica fallita! Riprova per
+		favore...</string>
+	<!--Original value: Sounds enabled -->
+	<string name="enable_sound">Suoni attivati</string>
+	<!--Original value: External storage not available -->
+	<string name="storage_unavailable">Area di memorizzazione esterna non disponibile</string>
+	<!--Original value: Picture file \'%s\' saved. -->
+	<string name="file_saved">Immagine salvata nel file \'%s\'.</string>
+	<!--Original value: Yes -->
+	<string name="yes">Si</string>
+	<!--Original value: No -->
+	<string name="no">No</string>
+	<!--Original value: Do you want to delete puzzle \'%s\'? -->
+	<string name="askDelete">Vuoi cancellare il puzzle \'%s\'?</string>
+	<!--Original value: Shuffle tiles -->
+	<string name="shuffle">Mescola mattonelle</string>
+	<!--Original value: File \'$1$s\' already exists, renamed to \'$2$s\' -->
+	<string name="file_renamed">File \'%1$s\' già esistente, rinominato in \'%2$s\' </string>
+	<!--Original value: Send puzzle -->
+	<string name="send_puzzle">Manda il puzzle</string>
+	<!--Original value: Try solving this puzzle using Photo Rubik 2D! -->
+	<string name="try_solving_puzzle">Prova a risolvere questo puzzle con l\'applicazione
+		Photo Rubik 2D!</string>
+	<string name="sending_puzzle">Invio del puzzle \'%s\'</string>
+</resources>
